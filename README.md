@@ -1,6 +1,10 @@
-![Relative date](https://img.shields.io/date/1633060800?color=9C4668&label=starts&style=for-the-badge)
+<p align="center">
+  <img src="https://hacktoberfest.digitalocean.com/h-light.svg" />
+</p>
 
 # HACKTOBERFEST STARTER KIT
+
+<img src="https://img.shields.io/date/1633060800?color=9C4668&label=starts&style=for-the-badge" align="right" />
 
 Getting started with Hacktoberfest.
 
@@ -12,6 +16,8 @@ Four quality pull requests must be submitted to public GitHub repositories.
 You can sign up anytime between October 1 and October 31.
 
 This is your *starter kit* to open source contribution, happy hacking!.
+
+Read the [[FAQ]](https://hacktoberfest.digitalocean.com/faq) for more.
 
 ## How to Contribute
 
@@ -99,4 +105,6 @@ println("Hello World!");
 
 ---
 
-Support this project with a :star:
+[DigitalOcean](https://hacktoberfest.digitalocean.com/)
+
+[DEV](https://dev.to/t/hacktoberfest)
