@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hacktoberfest.digitalocean.com/h-light.svg" />
+  <img src="https://hacktoberfest.digitalocean.com/img/logo-hacktoberfest-full.7d5e2645.svg" />
 </p>
 
 # HACKTOBERFEST STARTER KIT
