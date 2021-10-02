@@ -12,3 +12,8 @@ Social: [Twitter](https://twitter.com/roramigator) [DEV](https://dev.to/roramiga
 
 Bio: I am a full stack developer, looking forward to more open source projects!
 Social: [DEV] (https://dev.to/tomreifenberg)  
+
+#### [Shriraj Chinchwade] (https://github.com/sgc-2924)
+
+Bio: I am a cloud associate.
+Social: [Linkdin] (www.linkedin.com/in/shriraj-chinchwade-1080a41b7)  
