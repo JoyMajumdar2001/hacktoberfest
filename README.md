@@ -4,7 +4,7 @@
 
 # HACKTOBERFEST STARTER KIT
 
-<img src="https://img.shields.io/date/1633060800?color=9C4668&label=starts&style=for-the-badge" align="right" />
+<!--img src="https://img.shields.io/date/1633060800?color=9C4668&label=starts&style=for-the-badge" align="right" /-->
 
 Getting started with Hacktoberfest.
 
