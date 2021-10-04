@@ -17,3 +17,8 @@ Social: [DEV] (https://dev.to/tomreifenberg)
 
 Bio: I am a cloud associate.
 Social: [Linkdin] (www.linkedin.com/in/shriraj-chinchwade-1080a41b7)  
+
+#### [PamornT] (https://github.com/PamornT)
+
+Bio: LINE API Expert.
+Social: [Medium] (https://medium.com/@pamornt)  
