@@ -30,3 +30,9 @@ Social: [Linkdin] (https://www.linkedin.com/in/dan-dias-abeyesinghe-9172881b9/)
 Bio: LINE API Expert.
 Social: [Medium] (https://medium.com/@pamornt)  
 
+
+#### [Joysankar Majumdar] (https://github.com/JoyMajumdar2001)
+
+Bio: I am an android developer.
+Social: [Linkdin] (https://www.linkedin.com/in/joysankar2001)
+
